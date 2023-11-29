@@ -1,2 +1,5 @@
 # Software
-Panoptes Software Repo
+
+Repository of software and settings used by ARGUS
+
+▲
